@@ -38,4 +38,3 @@ cacheSolve <- function(x, ...) {
 ## example of case
 a=matrix(1:4,ncol=2,nrow=2)
 x<- makeCacheMatrix(a)
-t<-cachemean(x)
